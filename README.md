@@ -12,6 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ <!-- <p align="center"> 
+
+[![Mukti's github stats](https://github-readme-stats.vercel.app/api?username=muktisingh&show_icons=true)](https://github.com/muktisingh)
+
+</p> -->
+
+<p align="center"> 
+  Visitor count<br> <br>
+  <img src="https://profile-counter.glitch.me/muktisingh/count.svg" />
+</p>
+
+<br/>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hello Developers<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>I'm Mukti Singh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
