@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Mukti Singh</h1>
+<h1 align="center">Hello Developers<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>I'm Mukti Singh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muktisingh&label=Profile%20views&color=0e75b6&style=flat" alt="muktisingh" /> </p>
@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muktisingh" alt="muktisingh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  <br><br>
+  <samp>
+        I'm <a href="https://muktisingh.github.io/">Mukti Singh</a> currently a Third Year IT student at <a href="http://www.jiit.ac.in/">JIIT Noida :school: </a> and aspiring software developer:computer:
+  </samp>
+</p>
 
 - 📫 How to reach me **muktisingh913@gmail.com**
 
