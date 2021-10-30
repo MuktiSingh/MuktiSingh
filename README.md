@@ -77,12 +77,6 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muktisingh&hide=php&theme=tokyonight" />
 </a>
 
-
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
 <br/>
 
 <a href="https://github.com/muktisingh/github-readme-activity-graph"><img alt="Mukti Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muktisingh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
