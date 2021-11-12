@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 
 </p> -->
 
+<!--
+VISITOR COUNT GREEN COLOR
 <p align="center"> 
   Visitor count<br> <br>
   <img src="https://profile-counter.glitch.me/muktisingh/count.svg" />
 </p>
+-->
 
 <br/>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
